@@ -2,6 +2,8 @@
 
 # ¡Hola! Soy Alejandro 👋
 
+<img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de perfil">
+
 ### 💻 Desarrollador de Aplicaciones Multiplataforma
 
 Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de software y las nuevas tecnologías.
