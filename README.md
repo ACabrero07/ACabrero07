@@ -41,18 +41,16 @@ Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de sof
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🎬 Filmoteca | Aplicación Android para consultar películas | Kotlin, Jetpack Compose | |
-| 🌤️ Weather App | Aplicación para consultar información meteorológica | Kotlin, Retrofit, API | https://github.com/ACabrero07/Weatherapp.git|
+| 🎬 Filmoteca | Aplicación Android para consultar películas | Kotlin, Jetpack Compose |
+| 🌤️ Weather App | Aplicación para consultar información meteorológica | Kotlin, Retrofit, API |
 | 🍔 GastroManager | Sistema de gestión para un restaurante | Java, SQL, Docker |
-| 📦 Gestión de stock | Aplicación para gestionar productos y pedidos | Java, JSON, XML | |
+| 📦 Gestión de stock | Aplicación para gestionar productos y pedidos | Java, JSON, XML |
 
-## 📊 Estadísticas de GitHub
+## 📊 Proyectos y Repsoitorios
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+<img height="165" src="https://github.com/ACabrero07/Weatherapp.git" />
 
 </div>
 
