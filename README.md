@@ -46,11 +46,17 @@ Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de sof
 | 🍔 GastroManager | Sistema de gestión para un restaurante | Java, SQL, Docker |
 | 📦 Gestión de stock | Aplicación para gestionar productos y pedidos | Java, JSON, XML |
 
-## 📊 Proyectos y Repsoitorios
+## 📂 Proyectos destacados
+
+### 🌤️ WeatherApp
+Aplicación Android para consultar el tiempo
+mediante OpenWeather API.
+
+**Tecnologías:** Kotlin, Jetpack Compose, Retrofit.
 
 <div align="center">
 
-[Ver proyecto en GitHub](https://github.com/ACabrero07/Weatherapp.git)
+[Weatherapp](https://github.com/ACabrero07/Weatherapp.git)
 
 </div>
 
