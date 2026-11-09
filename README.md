@@ -64,7 +64,7 @@ mediante OpenWeather API.
 </p>
 
 
----
+
 
 
 <div align="center">
@@ -75,6 +75,8 @@ mediante OpenWeather API.
 
 
 <div align="center">
+
+---
 
 ### 📫 Contacto
 
