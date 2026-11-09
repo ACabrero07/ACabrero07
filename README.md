@@ -1,16 +1,69 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**ACabrero07/ACabrero07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Alejandro 👋
 
-Here are some ideas to get you started:
+### 💻 Desarrollador de Aplicaciones Multiplataforma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de software y las nuevas tecnologías.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 💡 Interesado en el desarrollo de aplicaciones y la programación.
+- 🚀 Aprendiendo nuevas tecnologías y mejorando mis habilidades.
+- 🛠️ Me gusta desarrollar proyectos prácticos y resolver problemas mediante código.
+
+## 🧰 Tecnologías y herramientas
+
+<div align="center">
+
+### Lenguajes de programación
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python" />
+
+### Herramientas y tecnologías
+
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,docker,mysql,linux" />
+
+</div>
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🎬 Filmoteca | Aplicación Android para consultar películas | Kotlin, Jetpack Compose |
+| 🌤️ Weather App | Aplicación para consultar información meteorológica | Kotlin, Retrofit, API |
+| 🍔 GastroManager | Sistema de gestión para un restaurante | Java, SQL, Docker |
+| 📦 Gestión de stock | Aplicación para gestionar productos y pedidos | Java, JSON, XML |
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Contacto
+
+¿Quieres contactar conmigo o conocer mis proyectos?
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+
+**¡Gracias por visitar mi perfil!** 🚀
+
+</div>
