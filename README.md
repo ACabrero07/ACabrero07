@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Alejandro 👋
 
-<img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de perfil">
+<img src="https://github.com/ACabrero07/ACabrero07/blob/main/img/banner.png" width="100%" alt="Banner de perfil">
 
 ### 💻 Desarrollador de Aplicaciones Multiplataforma
 
