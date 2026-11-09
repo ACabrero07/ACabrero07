@@ -50,7 +50,7 @@ Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de sof
 
 <div align="center">
 
-<img height="165" src="https://github.com/ACabrero07/Weatherapp.git" />
+[Ver proyecto en GitHub](https://github.com/ACabrero07/Weatherapp.git)
 
 </div>
 
