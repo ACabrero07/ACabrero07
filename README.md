@@ -39,12 +39,11 @@ Estudiante de **2º DAM**, apasionado por la programación, el desarrollo de sof
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| 🎬 Filmoteca | Aplicación Android para consultar películas | Kotlin, Jetpack Compose |
-| 🌤️ Weather App | Aplicación para consultar información meteorológica | Kotlin, Retrofit, API |
-| 🍔 GastroManager | Sistema de gestión para un restaurante | Java, SQL, Docker |
-| 📦 Gestión de stock | Aplicación para gestionar productos y pedidos | Java, JSON, XML |
+| Proyecto | Descripción | Tecnologías | Estado |
+|---|---|---|---|
+| 🎬 Filmoteca | Aplicación Android para consultar películas | Kotlin, Jetpack Compose | En Proceso |
+| 🌤️ Weather App | Aplicación para consultar información meteorológica | Kotlin, Retrofit, API | Terminada |
+| 🍔 GastroManager | Sistema de gestión para un restaurante | Java, SQL, Docker | En Proceso |
 
 ## 📂 Proyectos destacados
 
