@@ -54,15 +54,29 @@ mediante OpenWeather API.
 
 **Tecnologías:** Kotlin, Jetpack Compose, Retrofit.
 
+
+
+<h2 align="center">📱 Preview</h2>
+
+<p align="center">
+  <img src="https://github.com/ACabrero07/ACabrero07/blob/main/img/Buscar.jpg" width="250">
+  <img src="https://github.com/ACabrero07/ACabrero07/blob/main/img/Resultado.png" width="250">
+</p>
+
+
+
+
+
 <div align="center">
 
 [Weatherapp](https://github.com/ACabrero07/Weatherapp.git)
 
 </div>
 
----
 
 <div align="center">
+
+---
 
 ### 📫 Contacto
 
